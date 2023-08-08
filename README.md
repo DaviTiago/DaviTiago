@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Davi Tiago 
 ##
-
 <div>
   <a href="https://github.com/DaviTiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviTiago&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviTiago&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=DaviTiago&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviTiago&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
