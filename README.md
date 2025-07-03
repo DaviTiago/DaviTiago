@@ -2,9 +2,9 @@
 
 ### Olá! Eu sou o Davi Tiago 
 ##
-<div>
+<div align="center">
   <a href="https://github.com/DaviTiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviTiago&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviTiago&layout=compact&hide_border=true&langs_count=7&bg_color=0d1117&text_color=ffffff"/>
   </a>
 </div>
 
