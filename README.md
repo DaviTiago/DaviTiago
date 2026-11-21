@@ -1,12 +1,28 @@
-# Sobre mim:
+<h1 align="center">Olá, eu sou o Davi 👋</h1>
 
-### Olá! Eu sou o Davi, Estudante de Sistemas de Informação na UFU.
-##
+<p align="center">
+  Desenvolvedor fullstack na <a href="https://www.kanastra.com.br">Kanastra</a> · Sistemas de Informação na <a href="https://ufu.br">UFU</a>
+</p>
 
+---
 
+### Sobre mim
 
-##
-O que estou aprendendo:
+- 💼 Construo produtos para o mercado de fundos de investimento na **Kanastra**, do backend ao frontend
+- 🎓 Curso Sistemas de Informação na **Universidade Federal de Uberlândia**
+- 🔬 Participo do **LIPAI**, grupo de estudo em análise de imagens histológicas
+- 📍 Uberlândia - MG, Brasil
+- 📫 davi.tiago@ufu.br
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  width="40" height="40" />
-          
+### 🛠️ Stack do dia a dia
+
+| | |
+|:--|:--|
+| **Backend** | <img src="https://skillicons.dev/icons?i=go,postgres,redis" height="40" alt="Go, PostgreSQL, Redis" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind" height="40" alt="TypeScript, React, Vite, Tailwind CSS" /> |
+| **Cloud e infra** | <img src="https://skillicons.dev/icons?i=gcp,docker" height="40" alt="Google Cloud, Docker" /> |
+| **Testes e ferramentas** | <img src="https://skillicons.dev/icons?i=vitest,git,github,figma" height="40" alt="Vitest, Git, GitHub, Figma" /> |
+
+### 📚 Na faculdade e em projetos pessoais
+
+<img src="https://skillicons.dev/icons?i=java,c,python,php,js,html,css" height="40" alt="Java, C, Python, PHP, JavaScript, HTML, CSS" />
